@@ -6,6 +6,27 @@ body.collection {
      background-size: cover;
  }
  
+.Links-container {
+    text-decoration: none;
+    float: right;
+    padding: 1rem;
+}
+
+
+.navbar-link:link {
+    color: white;
+}
+.navbar-link:visted {
+    color: yellow;
+}
+.navbar-link:hover {
+    color: rgb(233, 50, 117);
+}
+
+.navbar-link:active {
+    background-color: white;
+}
+
  .album-covers {
      position: relative;
  }
