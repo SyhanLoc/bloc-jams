@@ -10,6 +10,7 @@ body.collection {
     text-decoration: none;
     float: right;
     padding: 1rem;
+    font-family: sans-serif;
 }
 
 
@@ -24,6 +25,7 @@ body.collection {
 }
 
 .navbar-link:active {
+    padding: 2rem;
     background-color: white;
 }
 
